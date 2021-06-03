@@ -101,7 +101,7 @@
         padding-left: 150px;
     }
 
-    .aside {
+     .wrapper>div.aside {
         display: none;
     }
 
