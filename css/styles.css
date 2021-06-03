@@ -66,6 +66,9 @@
     color: whitesmoke;
     text-transform: uppercase;
     border: solid 1px whitesmoke;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* TABLET */
